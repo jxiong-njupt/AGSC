@@ -1,6 +1,6 @@
 # AGSC
 
-Executable files for the manuscript titled “Advanced Geometry Surface Coding for Dynamic Point Cloud Compression” which is submitted to TCSVT. Provided by Jian Xiong (jxiong AT njupt Dot edu Dot cn).
+Executable files for the manuscript titled “Advanced Geometry Surface Coding for Dynamic Point Cloud Compression” which is submitted to TIP. Provided by Jian Xiong (jxiong AT njupt Dot edu Dot cn).
 
 Four files are included as
 
